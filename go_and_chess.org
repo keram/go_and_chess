@@ -273,6 +273,23 @@ https://youtu.be/d-bvsJWmqlc?t=1224
 
   Kasparov
 
+** Calmness
+
+     [[file:assets/edu1.jpg]]
+
+** Concentration
+
+     [[file:assets/edu2.jpg]]
+
+
+** Satisfaction Delay
+
+     [[file:assets/edu3.jpg]]
+
+** Problem Solving
+
+     [[file:assets/edu4.jpg]]
+
 * Conclusion
 
 ** Garry Kasparov
@@ -300,8 +317,8 @@ Let's play some games!
 - British Go Association Website for learning https://www.britgo.org/learning
 - Online Go for playing http://online-go.com/
 - To meet, drink, eat and play.
-Mondays at the Inn of Court pub (10min walk from BB) from 6pm until 11pm.
-Nearest tube is Chancery Lane
+Mondays at the [[https://www.innofcourt.co.uk/][Inn of Court pub]]  from 6pm until 11pm.
+(~ 10min walk from BB)
   http://citygoplayers.org.uk/
 
 
