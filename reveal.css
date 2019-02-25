@@ -1,0 +1,14 @@
+.reveal blockquote {
+    padding: 5px 0.7em;
+    margin: 1em auto;
+    width: 100%;
+}
+
+.reveal p,
+.reveal h3 {
+    text-align: left;
+}
+
+#slide-previous-retrospective .figure p {
+    text-align: center;
+}

@@ -1,0 +1,318 @@
+#+OPTIONS: toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+TITLE: History, Benefits and Future of Go and Chess
+
+* Introduction
+
+** Welcome
+
+   [[file:assets/seigen.jpg]]
+
+** Intro video about Go
+
+https://www.youtube.com/watch?v=d-bvsJWmqlc&feature=youtu.be&t=1020
+
+* History
+
+#+BEGIN_NOTES
+
+prevailing thoughts of the modern go community and interested scholars
+have been:
+1) That the game is unlikely to be as old as the myths of Yao suggest,
+and its presence in these tales reflects the caprices and biases of
+Han historians.
+
+That its actual invention occurred at some point during the
+star-worshiping Zhou period or soon thereafter, leading to the board
+and stones’ association with both the ‘Sky’ and ‘Time.’
+3) From this, it has generally been thought, especially in the West,
+that there has always been a ‘spiritual aura’ surrounding the game
+because playing it seems to bring about moral and mental development
+as the players are brought into harmony with the forces of yin and
+yang in the universe.
+
+
+#+END_NOTES
+
+#+BEGIN_NOTES
+Just about that time a revolution was initiated by a young provincial
+lord, that leads a major turning point in the history of Japan. His
+name was Oda Nobunaga. He was born of one of minor feudal lords in a
+province of Owari ( Nagoya city nowadays and the surrounding
+neighborhood ). A long period of ineffectual government of Ashikaga
+clan extended for more than one hundred years. He had a strong desire
+to become the absolute ruler of Japan, and built up his invincible
+army. Hostile operations and military subjugation were repeated, and
+finally, Nobunaga succeeded in capturing Kyoto in 1568, and instituted
+his powerful military regime. After a lapse of ten years, Nobunaga's
+provisional government established its rule over the central area of
+Japan, and still his troops were marching east and west. Gradually,
+Sansa came to give full play to his talent and gained a great
+reputation as the strongest go player. Soon hearing that, Nobunaga
+felt much interested and received Sansa to watch his game. Nobunaga
+were full of curiosity about novelties and marvels like a child. He
+liked go and had much confidence in his own ability to play go. He
+tested Sansa by himself, and consequently he couldn't help admiring
+Sansa's exquisite skill. He praised Sansa as the most valuable expert,
+"Meijin". Since then, people called him Meijin.  I would like to make
+a few more remarks about Nobunaga and the state of affairs in those
+days. In 1569, Nobunaga gave an interview to a missionary, Luis Flois,
+who wrote about Nobunaga in his report to Rome. The following is his
+words.
+- His castle, Azuchi is a noble, magnificently gorgeous gold foiled castle tower. He
+is thirty-seven years old. He is tall and lean, and having thin
+mustache...He displays pride and haughtiness, and doesn't hide his
+contempt for the kings and the lords. He hates Buddhism, Shintoism and
+worship of any idols, and doesn't believe paganism and divination. He
+has no hesitation in saying that there is not either the creator of
+the universe or the life beyond death, and boldly denied the
+immortality of the soul.
+- Nobunaga had a great contempt for conventionality
+
+
+In 1603 Tokugawa Ieyasu was inaugurated the shogun, but Hideyoshi's
+son was unseated. When Tokugawa shogunate government started
+functioning, Sansa was installed the first chief of the bureau of go
+education, and his vested rights were ratified formally by the new
+government. The office was called Go dokoro, and Go dokoro meant the
+chairman's office. Go dokoro was to be involved all go matters.  In
+1612, seven experts, chief among Sansa's friends and students, were
+employed as committees under Go dokoro to establish the state go
+academy. The government decided to grant stipends and samurai status
+to them.  When Sansa was dying, he told Doseki to succeed to his
+post. He raised up Doseki's rank to his own, and made all the young
+pupils swear to follow the new teacher.  This second head of the
+academy, Doseki was Sansa's first and illustrious pupil.  Today
+comparing with Sansa's games and Doseki's, we clearly think that he
+excelled his teacher
+
+#+END_NOTES
+
+** Hon'inbō Sansa 本因坊 算砂
+
+    [[file:assets/Sansa.jpg]]
+
+    Meijin (名人) /Brilliant Man/
+
+*** Oda Nobunaga 織田 信長
+
+    [[file:assets/Odanobunaga.jpg]]
+
+*** Toyotomi Hideyoshi 豊臣 秀吉
+
+    [[file:assets/hideyo1.jpg]]
+
+*** Tokugawa Ieyasu 徳川家康
+
+    [[file:assets/Tokugawa_Ieyasu2.jpg]]
+
+
+*** The three Daimyō, (Land owners, Generals, Shoguns) who united the Japan
+
+    - Oda Nobunaga
+
+    - Toyotomi Hideyoshi
+
+    - Tokugawa Ieyasu
+
+      And also students of Hon'inbō Sansa and players of Go
+
+** Wolfgang von Kempelen
+
+    [[file:assets/Kempelen-charcoal.jpg]]
+
+
+    Inventor, Councillor, Polymath
+
+*** Turk - Chess Playing Machine
+
+     [[file:assets/Kempelen_chess1.jpg]]
+
+** Alan Turing
+
+    [[file:assets/24July_AlanTuring.jpg]]
+
+    Mathematician, Computer Scientist, Logician, Cryptanalyst,
+    Philosopher and Theoretical Biologist
+
+*** [[file:assets/turing_chess.jpg]]
+
+** John McCarthy
+
+    [[file:assets/JohnMcCarthy.jpg]]
+
+    Professor, researcher in computer science and pioneer in the field
+    of artificial intelligence.  Creator of Lisp programming language.
+
+*** 1966 Soviet Union vs USA Computer Chess Match
+
+ Correspondence match between the Kotok-McCarthy-Program and a program
+ developed at the Moscow Institute of Theoretical and Experimental
+ Physics (ITEP), written by Adelson-Velsky, Arlazarov, Uskov,
+ Zhivotovsky.
+
+ Match was won by Russian team ITEP 3-1.
+
+** Mikhail Botvinnik Михаи́л Ботви́нник
+  :PROPERTIES:
+  :CUSTOM_ID: botvinnik
+  :END:
+
+    [[file:assets/387px-Mikhail_Botvinnik_1962.jpg]]
+
+    Electrical engineer, computer scientist, teacher and World Chess
+    Champion (1948 ~ 1963)
+
+*** Botvinnik 1
+
+    #+BEGIN_QUOTE
+    The machine may play chess badly, like a beginning amateur, but the
+    machine is not guilty. Man is guilty. He has not yet succeeded in
+    teaching the machine, in transferring his experience to it...
+
+    To write a finished program, one must master both chess and the art of
+    programming.
+    #+END_QUOTE
+
+*** Botvinnik 2
+
+    #+BEGIN_QUOTE
+    Man solves inexact problems by relying on his accumulated
+    experience and on intuition. The following method for creating an
+    exact program for the solution of inexact tasks therefore suggests
+    itself: the program must be modeled on human thought
+    processes... It seems to me the only real way.
+    #+END_QUOTE
+
+
+** Garry Kasparov
+  :PROPERTIES:
+  :CUSTOM_ID: kasparov
+  :END:
+
+    [[file:assets/karsparov.jpg]]
+
+World chess champion (1985 ~ 2000), writer, and political activist, whom many consider to be the greatest chess player of all time.
+
+*** Deep Blue
+    :PROPERTIES:
+    :CUSTOM_ID: blue
+    :END:
+
+     [[file:assets/deep_blue.jpg]]
+
+** Demis Hassabis
+  :PROPERTIES:
+  :CUSTOM_ID: hassabis
+  :END:
+
+     [[file:assets/Demis_Hassabis_Royal_Society.jpg]]
+
+    #+BEGIN_QUOTE
+    Games are the perfect proving ground for developing and testing AI algorithms.
+    #+END_QUOTE
+
+*** AlphaGo
+    :PROPERTIES:
+    :CUSTOM_ID: alphago
+    :END:
+
+     [[file:assets/sedol.jpg]]
+
+     Lee Sedol vs AlphaGo 2016
+
+*** Lee Sedol defeat
+    :PROPERTIES:
+    :CUSTOM_ID: alphago-2
+    :END:
+
+     [[file:assets/sedol2.jpg]]
+
+*** Master (January 2017)
+    :PROPERTIES:
+    :CUSTOM_ID: master
+    :END:
+
+    The online version of AlphaGo which defeated multiple topl level players in many quick games played online.
+
+*** AlphaGoZero
+    :PROPERTIES:
+    :CUSTOM_ID: alphagozero
+    :END:
+
+     [[file:assets/ke-jie.jpg]]
+
+*** AlphaGoZero 2
+    :PROPERTIES:
+    :CUSTOM_ID: alphagozero-1
+    :END:
+
+     [[file:assets/ke-jie2.jpg]]
+
+*** AlphaGoZero Human Team
+    :PROPERTIES:
+    :CUSTOM_ID: alphagozero-2
+    :END:
+
+     [[file:assets/facepalm.jpg]]
+
+* Chess and Go
+
+https://youtu.be/d-bvsJWmqlc?t=1224
+
+
+(20:55)
+
+* Games and Education
+
+  #+BEGIN_QUOTE
+  It’s still very useful to have a super-strong machine to play
+  against and to analyze with, of course, but for a nonexpert it can
+  be a bit like asking a calculator to be your algebra tutor.
+  #+END_QuOTE
+
+  Kasparov
+
+* Conclusion
+
+** Garry Kasparov
+
+   #+BEGIN_QUOTE
+   Our attitude matters, and not because we can stop the march of
+   technological progress even if we wanted to, but because our
+   perspective on disruption affects how well prepared for it we will be.
+   #+END_QUOTE
+   Kasparov
+
+** Garry Kasparov 2
+
+   #+BEGIN_QUOTE
+   We say that a bad plan is better than no plan, at least in human chess. If you have a plan and it fails, you learn something. If you act aimlessly, from move to move, from decision to decision, whether in politics or business or chess, you don’t learn and will never become anything more than a skillful improviser.
+   #+END_QUOTE
+
+
+* Thank You
+
+Let's play some games!
+
+* Where next?
+
+- British Go Association Website for learning https://www.britgo.org/learning
+- Online Go for playing http://online-go.com/
+- To meet, drink, eat and play.
+Mondays at the Inn of Court pub (10min walk from BB) from 6pm until 11pm.
+Nearest tube is Chancery Lane
+  http://citygoplayers.org.uk/
+
+
+* Contributions
+
+  - Wikipedia
+  - [[https://senseis.xmp.net/][Sensei's Library]]
+  - https://www.samurai-archives.com/hideyoshi.html
+  - https://www.bl.uk/people/alan-turing
+  - John McCarthy photo by "null0" - https://www.flickr.com/photos/null0/272015955/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=1297606
+  - https://www.chessprogramming.org/John_McCarthy
+  - Botvinnik photo By Harry Pot - [1] Dutch National Archives, The Hague, Fotocollectie Algemeen Nederlands Persbureau (ANEFO), 1945-1989, Nummer toegang 2.24.01.05 Bestanddeelnummer 914-4582, CC BY-SA 3.0 nl, https://commons.wikimedia.org/w/index.php?curid=20599117
+  - https://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/id128.html
+  - https://deepmind.com/research/alphago/
